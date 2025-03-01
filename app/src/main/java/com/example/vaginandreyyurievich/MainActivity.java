@@ -39,6 +39,11 @@ public class MainActivity extends AppCompatActivity {
         sendDataToActivity();
     }
 
+    @Override
+    protected void onStart() {
+        super.onStart();
+        Log.d(TAG, "Start");
+    }
 
     @Override
     protected void onResume() {

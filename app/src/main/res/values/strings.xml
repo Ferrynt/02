@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">VaginAndreyYurievich</string>
-    <string name="text">Текст</string>
-    <string name="button">Кнопка</string>
-    <string name="hint">Ввод</string>
+    <string name="button">Декларативная</string>
+    <string name="btn_prog">Программная</string>
+    <string name="fio">ФИО</string>
+    <string name="group">Группа</string>
+    <string name="age">Возраст</string>
+    <string name="grade">Оценка</string>
 </resources>
